@@ -1,0 +1,667 @@
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:22:43,338, 338.411808013916, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:22:43,342, 342.4072265625, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:22:43,386, 386.41953468322754,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:22:43,395, 395.42293548583984,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:22:43,415, 415.4083728790283,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+    DEBUG    utilLog          app.py:  21 -get_all_movies 2021-07-13 21:22:46,414, 414.63494300842285, Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False), 'imdb'), 'movies')
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,553, 553.9224147796631, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,553, 553.9224147796631, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,553, 553.9224147796631, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,553, 553.9224147796631, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,554, 554.9216270446777, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,554, 554.9216270446777, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,554, 554.9216270446777, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,554, 554.9216270446777, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,554, 554.9216270446777, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,554, 554.9216270446777, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,555, 555.919885635376, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,555, 555.919885635376, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,555, 555.919885635376, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,555, 555.919885635376, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,555, 555.919885635376, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,555, 555.919885635376, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,556, 556.9195747375488, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,556, 556.9195747375488, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,556, 556.9195747375488, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,556, 556.9195747375488, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,556, 556.9195747375488, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,556, 556.9195747375488, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,556, 556.9195747375488, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,557, 557.9195022583008, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,557, 557.9195022583008, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,557, 557.9195022583008, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,557, 557.9195022583008, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,557, 557.9195022583008, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,558, 558.92014503479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,558, 558.92014503479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,558, 558.92014503479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,558, 558.92014503479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,558, 558.92014503479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,558, 558.92014503479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,559, 559.9195957183838, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,559, 559.9195957183838, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,559, 559.9195957183838, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,559, 559.9195957183838, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,559, 559.9195957183838, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,559, 559.9195957183838, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,559, 559.9195957183838, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,560, 560.9054565429688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,560, 560.9054565429688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,560, 560.9054565429688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,560, 560.9054565429688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,560, 560.9054565429688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,560, 560.9054565429688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,561, 561.9194507598877, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,561, 561.9194507598877, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,561, 561.9194507598877, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,561, 561.9194507598877, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,561, 561.9194507598877, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,561, 561.9194507598877, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,562, 562.9196166992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,562, 562.9196166992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,562, 562.9196166992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,562, 562.9196166992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,562, 562.9196166992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,562, 562.9196166992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,563, 563.9197826385498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,563, 563.9197826385498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,563, 563.9197826385498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,563, 563.9197826385498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,563, 563.9197826385498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,563, 563.9197826385498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,564, 564.9204254150391, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,564, 564.9204254150391, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,564, 564.9204254150391, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,564, 564.9204254150391, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,564, 564.9204254150391, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,564, 564.9204254150391, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,565, 565.9193992614746, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,565, 565.9193992614746, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,565, 565.9193992614746, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,565, 565.9193992614746, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,565, 565.9193992614746, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,565, 565.9193992614746, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,565, 565.9193992614746, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,566, 566.9193267822266, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,566, 566.9193267822266, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,566, 566.9193267822266, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,566, 566.9193267822266, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,566, 566.9193267822266, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,566, 566.9193267822266, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,567, 567.9192543029785, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,567, 567.9192543029785, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,567, 567.9192543029785, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,567, 567.9192543029785, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,568, 568.9070224761963, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,568, 568.9070224761963, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,568, 568.9070224761963, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,568, 568.9070224761963, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,568, 568.9070224761963, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,568, 568.9070224761963, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,569, 569.9210166931152, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,569, 569.9210166931152, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,569, 569.9210166931152, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,569, 569.9210166931152, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,569, 569.9210166931152, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,569, 569.9210166931152, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,570, 570.9197521209717, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,573, 573.906660079956, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,573, 573.906660079956, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,574, 574.9211311340332, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,574, 574.9211311340332, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,574, 574.9211311340332, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,574, 574.9211311340332, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,574, 574.9211311340332, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,574, 574.9211311340332, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,575, 575.9198665618896, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,575, 575.9198665618896, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,575, 575.9198665618896, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,575, 575.9198665618896, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,575, 575.9198665618896, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,575, 575.9198665618896, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,575, 575.9198665618896, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,576, 576.9200325012207, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,576, 576.9200325012207, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,576, 576.9200325012207, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,576, 576.9200325012207, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,576, 576.9200325012207, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,576, 576.9200325012207, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,577, 577.9194831848145, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,577, 577.9194831848145, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,577, 577.9194831848145, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,577, 577.9194831848145, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,577, 577.9194831848145, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,578, 578.9198875427246, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,578, 578.9198875427246, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,578, 578.9198875427246, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,578, 578.9198875427246, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,578, 578.9198875427246, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,578, 578.9198875427246, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,578, 578.9198875427246, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,579, 579.9195766448975, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,579, 579.9195766448975, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,579, 579.9195766448975, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,579, 579.9195766448975, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,579, 579.9195766448975, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,579, 579.9195766448975, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,580, 580.9197425842285, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,580, 580.9197425842285, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,580, 580.9197425842285, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,580, 580.9197425842285, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,580, 580.9197425842285, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,580, 580.9197425842285, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,581, 581.9191932678223, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,581, 581.9191932678223, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,581, 581.9191932678223, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,581, 581.9191932678223, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,581, 581.9191932678223, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,581, 581.9191932678223, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,581, 581.9191932678223, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,582, 582.9195976257324, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,582, 582.9195976257324, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,582, 582.9195976257324, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,582, 582.9195976257324, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,582, 582.9195976257324, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,582, 582.9195976257324, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,583, 583.9195251464844, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,583, 583.9195251464844, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,583, 583.9195251464844, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,583, 583.9195251464844, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,583, 583.9195251464844, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,583, 583.9195251464844, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,584, 584.9204063415527, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,584, 584.9204063415527, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,584, 584.9204063415527, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,584, 584.9204063415527, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,584, 584.9204063415527, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,584, 584.9204063415527, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,585, 585.909366607666, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,585, 585.909366607666, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,585, 585.909366607666, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,586, 586.9112014770508, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,586, 586.9112014770508, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,586, 586.9112014770508, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,586, 586.9112014770508, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,586, 586.9112014770508, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,586, 586.9112014770508, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,587, 587.9085063934326, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,587, 587.9085063934326, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,587, 587.9085063934326, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,587, 587.9085063934326, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,587, 587.9085063934326, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,587, 587.9085063934326, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,588, 588.9222621917725, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,588, 588.9222621917725, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,588, 588.9222621917725, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,588, 588.9222621917725, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,588, 588.9222621917725, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,588, 588.9222621917725, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,589, 589.9205207824707, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,589, 589.9205207824707, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,589, 589.9205207824707, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,589, 589.9205207824707, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,589, 589.9205207824707, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,589, 589.9205207824707, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,590, 590.9204483032227, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,590, 590.9204483032227, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,590, 590.9204483032227, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,590, 590.9204483032227, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,590, 590.9204483032227, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,590, 590.9204483032227, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,591, 591.9206142425537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,591, 591.9206142425537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,591, 591.9206142425537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,591, 591.9206142425537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,591, 591.9206142425537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,591, 591.9206142425537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,591, 591.9206142425537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,592, 592.9057598114014, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,592, 592.9057598114014, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,592, 592.9057598114014, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,592, 592.9057598114014, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,592, 592.9057598114014, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,592, 592.9057598114014, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,592, 592.9057598114014, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,593, 593.9211845397949, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,593, 593.9211845397949, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,593, 593.9211845397949, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,593, 593.9211845397949, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,593, 593.9211845397949, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,593, 593.9211845397949, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,594, 594.9084758758545, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,594, 594.9084758758545, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,594, 594.9084758758545, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,594, 594.9084758758545, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,594, 594.9084758758545, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,594, 594.9084758758545, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,594, 594.9084758758545, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,595, 595.9203243255615, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,595, 595.9203243255615, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,595, 595.9203243255615, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,595, 595.9203243255615, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,595, 595.9203243255615, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,595, 595.9203243255615, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,595, 595.9203243255615, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,596, 596.9212055206299, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,596, 596.9212055206299, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,596, 596.9212055206299, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,596, 596.9212055206299, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,596, 596.9212055206299, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,596, 596.9212055206299, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,596, 596.9212055206299, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,597, 597.9206562042236, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,597, 597.9206562042236, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:22:46,597, 597.9206562042236, collection appending
+     INFO    utilLog          app.py:  26 -get_all_movies 2021-07-13 21:22:46,597, 597.9206562042236, Json object serilazation
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:22:46,648, 648.8649845123291, 127.0.0.1 - - [13/Jul/2021 21:22:46] "[37mGET / HTTP/1.1[0m" 200 -
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:23:46,509, 509.5193386077881, ----[genre] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:23:46,756, 756.3526630401611, 127.0.0.1 - - [13/Jul/2021 21:23:46] "[37mGET /genre HTTP/1.1[0m" 200 -
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:24:08,208, 208.9254856109619, ----[crime] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:24:08,215, 215.9280776977539, 127.0.0.1 - - [13/Jul/2021 21:24:08] "[37mGET /crime HTTP/1.1[0m" 200 -
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:24:31,336, 336.19117736816406, ----[adventure] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:24:31,343, 343.1894779205322, 127.0.0.1 - - [13/Jul/2021 21:24:31] "[37mGET /adventure HTTP/1.1[0m" 200 -
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:24:43,772, 772.8455066680908, ----["crime"] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:24:43,776, 776.846170425415, 127.0.0.1 - - [13/Jul/2021 21:24:43] "[37mGET /%22crime%22 HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:04,447, 447.69763946533203,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:26:06,461, 461.8101119995117, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:26:06,464, 464.8096561431885, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:06,521, 521.81077003479,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:06,534, 534.8184108734131,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:06,558, 558.8147640228271,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:23,808, 808.2275390625, 127.0.0.1 - - [13/Jul/2021 21:26:23] "[35m[1mGET /8.6 HTTP/1.1[0m" 500 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:25,184, 184.7689151763916, 127.0.0.1 - - [13/Jul/2021 21:26:25] "[37mGET /8.6?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:25,185, 185.78696250915527, 127.0.0.1 - - [13/Jul/2021 21:26:25] "[37mGET /8.6?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:25,186, 186.77210807800293, 127.0.0.1 - - [13/Jul/2021 21:26:25] "[37mGET /8.6?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:25,635, 635.4861259460449, 127.0.0.1 - - [13/Jul/2021 21:26:25] "[37mGET /8.6?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:25,700, 700.4659175872803, 127.0.0.1 - - [13/Jul/2021 21:26:25] "[37mGET /8.6?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:25,724, 724.4696617126465, 127.0.0.1 - - [13/Jul/2021 21:26:25] "[37mGET /8.6?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:39,669, 669.0540313720703,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:26:41,325, 325.20389556884766, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:26:41,329, 329.20145988464355, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:41,375, 375.2167224884033,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:41,384, 384.2153549194336,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:41,403, 403.20348739624023,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:26:41,879, 879.4593811035156, ----[8.6] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:26:41,958, 958.0986499786377, 127.0.0.1 - - [13/Jul/2021 21:26:41] "[37mGET /8.6 HTTP/1.1[0m" 200 -
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:27:10,360, 360.9943389892578, ----[9.2] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:27:10,367, 367.9919242858887, 127.0.0.1 - - [13/Jul/2021 21:27:10] "[37mGET /9.2 HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:44,865, 865.4427528381348,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:29:46,929, 929.2304515838623, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:29:46,933, 933.2282543182373, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:46,976, 976.2129783630371,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:46,985, 985.2125644683838,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:47,005, 5.22160530090332,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:29:50,222, 222.97954559326172, ----[9.2] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:50,330, 330.2457332611084, 127.0.0.1 - - [13/Jul/2021 21:29:50] "[35m[1mGET /9.2 HTTP/1.1[0m" 500 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:51,384, 384.2484951019287, 127.0.0.1 - - [13/Jul/2021 21:29:51] "[37mGET /9.2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:51,385, 385.26248931884766, 127.0.0.1 - - [13/Jul/2021 21:29:51] "[37mGET /9.2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:51,386, 386.2485885620117, 127.0.0.1 - - [13/Jul/2021 21:29:51] "[37mGET /9.2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:51,464, 464.2505645751953, 127.0.0.1 - - [13/Jul/2021 21:29:51] "[37mGET /9.2?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:51,521, 521.2626457214355, 127.0.0.1 - - [13/Jul/2021 21:29:51] "[37mGET /9.2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:51,582, 582.2525024414062, 127.0.0.1 - - [13/Jul/2021 21:29:51] "[37mGET /9.2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:56,411, 411.42845153808594,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:29:58,439, 439.4042491912842, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:29:58,442, 442.413330078125, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:58,486, 486.41276359558105,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:58,495, 495.41401863098145,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:29:58,512, 512.4170780181885,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:31:04,805, 805.8087825775146,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:31:37,476, 476.8495559692383, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:31:37,480, 480.8616638183594, JSON ENCODER FOR JSON
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:31:37,529, 529.8478603363037,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:31:38,962, 962.8555774688721, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:31:38,966, 966.862678527832, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:31:39,010, 10.862112045288086,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:31:39,019, 19.85001564025879,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:31:39,038, 38.849830627441406,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:31:42,594, 594.8042869567871, ----[9.2] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:31:42,687, 687.8049373626709, 127.0.0.1 - - [13/Jul/2021 21:31:42] "[37mGET /9.2 HTTP/1.1[0m" 200 -
+    DEBUG    utilLog          app.py:  31 -get_one_movie 2021-07-13 21:31:53,269, 269.81472969055176, ----[imdb_score] ----
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:31:53,275, 275.81071853637695, 127.0.0.1 - - [13/Jul/2021 21:31:53] "[37mGET /imdb_score HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:32:55,031, 31.428813934326172,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:32:55,440, 440.42325019836426,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:32:56,979, 979.5002937316895, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:32:56,983, 983.511209487915, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:32:57,026, 26.511192321777344,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:32:57,037, 37.50967979431152,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:32:57,065, 65.50049781799316,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:01,090, 90.49725532531738, 127.0.0.1 - - [13/Jul/2021 21:33:01] "[33mGET /9.2 HTTP/1.1[0m" 404 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:04,217, 217.64826774597168, 127.0.0.1 - - [13/Jul/2021 21:33:04] "[33mGET /9.2 HTTP/1.1[0m" 404 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:14,173, 173.2499599456787, 127.0.0.1 - - [13/Jul/2021 21:33:14] "[35m[1mGET /movie HTTP/1.1[0m" 500 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:15,208, 208.2374095916748, 127.0.0.1 - - [13/Jul/2021 21:33:15] "[37mGET /movie?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:15,209, 209.23566818237305, 127.0.0.1 - - [13/Jul/2021 21:33:15] "[37mGET /movie?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:15,210, 210.23821830749512, 127.0.0.1 - - [13/Jul/2021 21:33:15] "[37mGET /movie?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:15,599, 599.3201732635498, 127.0.0.1 - - [13/Jul/2021 21:33:15] "[37mGET /movie?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:15,684, 684.3104362487793, 127.0.0.1 - - [13/Jul/2021 21:33:15] "[37mGET /movie?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:15,753, 753.3109188079834, 127.0.0.1 - - [13/Jul/2021 21:33:15] "[37mGET /movie?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:41,817, 817.3174858093262,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:41,929, 929.3015003204346,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:33:43,160, 160.32981872558594, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:33:43,164, 164.31736946105957, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:43,205, 205.31797409057617,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:43,214, 214.31636810302734,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:43,232, 232.30409622192383,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:59,419, 419.95954513549805, 127.0.0.1 - - [13/Jul/2021 21:33:59] "[32mGET /movie HTTP/1.1[0m" 308 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:33:59,471, 471.954345703125, 127.0.0.1 - - [13/Jul/2021 21:33:59] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:00,511, 511.95240020751953, 127.0.0.1 - - [13/Jul/2021 21:34:00] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:00,513, 513.9586925506592, 127.0.0.1 - - [13/Jul/2021 21:34:00] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:00,515, 515.9602165222168, 127.0.0.1 - - [13/Jul/2021 21:34:00] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:00,602, 602.9672622680664, 127.0.0.1 - - [13/Jul/2021 21:34:00] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:00,657, 657.952070236206, 127.0.0.1 - - [13/Jul/2021 21:34:00] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:00,704, 704.9582004547119, 127.0.0.1 - - [13/Jul/2021 21:34:00] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:19,792, 792.2449111938477,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:19,914, 914.2451286315918,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:34:21,684, 684.2522621154785, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:34:21,690, 690.269947052002, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:21,749, 749.2489814758301,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:21,760, 760.2465152740479,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:21,781, 781.25,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:35,646, 646.5034484863281,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:35,774, 774.4951248168945,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:34:37,255, 255.00082969665527, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:34:37,258, 258.9986324310303, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:37,305, 305.9995174407959,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:37,316, 316.00332260131836,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:34:37,335, 335.00075340270996,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:00,052, 52.73580551147461,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:00,157, 157.72271156311035,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:35:01,436, 436.05804443359375, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:35:01,439, 439.0575885772705, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:01,480, 480.0384044647217,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:01,489, 489.03679847717285,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:01,508, 508.0270767211914,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:03,752, 752.0852088928223,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:03,917, 917.0856475830078,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:35:05,381, 381.09731674194336, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:35:05,384, 384.0947151184082, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:05,426, 426.09620094299316,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:05,435, 435.09745597839355,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:05,452, 452.08120346069336,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:46,513, 513.1044387817383,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:46,694, 694.0991878509521,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:35:48,263, 263.11492919921875, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:35:48,267, 267.11320877075195, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:48,310, 310.11390686035156,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:48,319, 319.11444664001465,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:35:48,338, 338.1030559539795,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:02,125, 125.27656555175781,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:02,287, 287.26887702941895,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:36:03,809, 809.2544078826904, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:36:03,812, 812.2541904449463, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:03,852, 852.2536754608154,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:03,861, 861.2532615661621,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:03,878, 878.2551288604736,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:57,641, 641.6442394256592,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:57,758, 758.6386203765869,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:36:59,033, 33.89549255371094, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:36:59,037, 37.893056869506836, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:59,105, 105.90481758117676,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:59,124, 124.91059303283691,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:36:59,215, 215.89994430541992,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:02,338, 338.3610248565674, 127.0.0.1 - - [13/Jul/2021 21:37:02] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:03,315, 315.3657913208008, 127.0.0.1 - - [13/Jul/2021 21:37:03] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:03,324, 324.3720531463623, 127.0.0.1 - - [13/Jul/2021 21:37:03] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:03,332, 332.3683738708496, 127.0.0.1 - - [13/Jul/2021 21:37:03] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:03,440, 440.37842750549316, 127.0.0.1 - - [13/Jul/2021 21:37:03] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:03,455, 455.3699493408203, 127.0.0.1 - - [13/Jul/2021 21:37:03] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:03,490, 490.36550521850586, 127.0.0.1 - - [13/Jul/2021 21:37:03] "[37mGET /movie/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:12,150, 150.77757835388184, 127.0.0.1 - - [13/Jul/2021 21:37:12] "[33mGET /9.2 HTTP/1.1[0m" 404 -
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:23,202, 202.23188400268555,  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\AWS-Flask\\app.py', reloading
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:23,347, 347.2471237182617,  * Restarting with stat
+     INFO    utilLog          app.py:   7 -<module> 2021-07-13 21:37:24,931, 931.0956001281738, app.py main method
+     INFO    utilLog          app.py:   9 -<module> 2021-07-13 21:37:24,938, 938.086748123169, JSON ENCODER FOR JSON
+  WARNING   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:24,983, 983.0894470214844,  * Debugger is active!
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:24,993, 993.1011199951172,  * Debugger PIN: 715-989-947
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:25,012, 12.102842330932617,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:25,153, 153.08904647827148, 127.0.0.1 - - [13/Jul/2021 21:37:25] "[33mGET /9.2 HTTP/1.1[0m" 404 -
+    DEBUG    utilLog          app.py:  21 -get_all_movies 2021-07-13 21:37:29,481, 481.0206890106201, Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False), 'imdb'), 'movies')
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,540, 540.0295257568359, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,540, 540.0295257568359, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,541, 541.0122871398926, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,541, 541.0122871398926, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,541, 541.0122871398926, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,541, 541.0122871398926, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,541, 541.0122871398926, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,542, 542.0122146606445, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,542, 542.0122146606445, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,542, 542.0122146606445, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,542, 542.0122146606445, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,543, 543.0119037628174, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,543, 543.0119037628174, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,543, 543.0119037628174, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,543, 543.0119037628174, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,543, 543.0119037628174, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,544, 544.0123081207275, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,544, 544.0123081207275, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,545, 545.0224876403809, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,545, 545.0224876403809, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,546, 546.0176467895508, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,547, 547.0235347747803, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,547, 547.0235347747803, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,547, 547.0235347747803, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,548, 548.018217086792, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,548, 548.018217086792, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,548, 548.018217086792, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,548, 548.018217086792, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,549, 549.0193367004395, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,549, 549.0193367004395, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,550, 550.015926361084, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,550, 550.015926361084, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,551, 551.0177612304688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,551, 551.0177612304688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,551, 551.0177612304688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,551, 551.0177612304688, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,552, 552.0138740539551, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,552, 552.0138740539551, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,552, 552.0138740539551, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,552, 552.0138740539551, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,552, 552.0138740539551, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,553, 553.0111789703369, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,553, 553.0111789703369, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,553, 553.0111789703369, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,553, 553.0111789703369, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,554, 554.0130138397217, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,554, 554.0130138397217, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,554, 554.0130138397217, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,554, 554.0130138397217, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,554, 554.0130138397217, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,555, 555.011510848999, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,555, 555.011510848999, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,555, 555.011510848999, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,555, 555.011510848999, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,555, 555.011510848999, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,556, 556.0109615325928, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,556, 556.0109615325928, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,556, 556.0109615325928, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,556, 556.0109615325928, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,556, 556.0109615325928, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,557, 557.0106506347656, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,557, 557.0106506347656, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,557, 557.0106506347656, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,557, 557.0106506347656, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,558, 558.0120086669922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,558, 558.0120086669922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,558, 558.0120086669922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,558, 558.0120086669922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,558, 558.0120086669922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,559, 559.0133666992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,559, 559.0133666992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,559, 559.0133666992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,559, 559.0133666992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,559, 559.0133666992188, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,560, 560.0123405456543, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,560, 560.0123405456543, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,560, 560.0123405456543, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,560, 560.0123405456543, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,561, 561.0122680664062, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,561, 561.0122680664062, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,562, 562.0253086090088, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,562, 562.0253086090088, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,563, 563.0245208740234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,563, 563.0245208740234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,563, 563.0245208740234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,563, 563.0245208740234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,564, 564.0192031860352, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,564, 564.0192031860352, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,564, 564.0192031860352, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,564, 564.0192031860352, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,564, 564.0192031860352, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,565, 565.0169849395752, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,565, 565.0169849395752, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,565, 565.0169849395752, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,566, 566.0185813903809, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,566, 566.0185813903809, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,566, 566.0185813903809, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,566, 566.0185813903809, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,567, 567.0182704925537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,567, 567.0182704925537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,567, 567.0182704925537, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,571, 571.0282325744629, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,572, 572.0272064208984, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,572, 572.0272064208984, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,572, 572.0272064208984, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,572, 572.0272064208984, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,573, 573.0111598968506, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,573, 573.0111598968506, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,573, 573.0111598968506, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,573, 573.0111598968506, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,573, 573.0111598968506, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,574, 574.0108489990234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,574, 574.0108489990234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,574, 574.0108489990234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,574, 574.0108489990234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,574, 574.0108489990234, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,575, 575.0107765197754, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,575, 575.0107765197754, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,575, 575.0107765197754, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,575, 575.0107765197754, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,575, 575.0107765197754, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,576, 576.00998878479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,576, 576.00998878479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,576, 576.00998878479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,576, 576.00998878479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,576, 576.00998878479, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,577, 577.0103931427002, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,577, 577.0103931427002, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,577, 577.0103931427002, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,578, 578.0158042907715, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,578, 578.0158042907715, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,578, 578.0158042907715, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,579, 579.0197849273682, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,579, 579.0197849273682, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,579, 579.0197849273682, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,580, 580.0161361694336, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,580, 580.0161361694336, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,580, 580.0161361694336, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,580, 580.0161361694336, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,580, 580.0161361694336, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,581, 581.0120105743408, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,581, 581.0120105743408, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,581, 581.0120105743408, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,581, 581.0120105743408, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,582, 582.0112228393555, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,582, 582.0112228393555, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,582, 582.0112228393555, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,582, 582.0112228393555, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,582, 582.0112228393555, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,583, 583.0116271972656, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,583, 583.0116271972656, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,583, 583.0116271972656, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,583, 583.0116271972656, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,584, 584.0129852294922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,584, 584.0129852294922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,584, 584.0129852294922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,584, 584.0129852294922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,584, 584.0129852294922, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,585, 585.0124359130859, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,585, 585.0124359130859, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,585, 585.0124359130859, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,585, 585.0124359130859, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,585, 585.0124359130859, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,586, 586.0118865966797, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,586, 586.0118865966797, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,586, 586.0118865966797, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,586, 586.0118865966797, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,586, 586.0118865966797, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,587, 587.0115756988525, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,587, 587.0115756988525, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,587, 587.0115756988525, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,587, 587.0115756988525, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,587, 587.0115756988525, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,588, 588.0126953125, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,588, 588.0126953125, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,588, 588.0126953125, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,588, 588.0126953125, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,588, 588.0126953125, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,589, 589.0107154846191, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,589, 589.0107154846191, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,589, 589.0107154846191, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,589, 589.0107154846191, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,589, 589.0107154846191, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,590, 590.0113582611084, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,590, 590.0113582611084, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,590, 590.0113582611084, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,590, 590.0113582611084, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,590, 590.0113582611084, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,591, 591.010570526123, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,591, 591.010570526123, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,591, 591.010570526123, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,591, 591.010570526123, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,592, 592.0133590698242, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,592, 592.0133590698242, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,592, 592.0133590698242, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,592, 592.0133590698242, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,592, 592.0133590698242, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,593, 593.0116176605225, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,593, 593.0116176605225, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,593, 593.0116176605225, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,593, 593.0116176605225, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,593, 593.0116176605225, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,594, 594.0139293670654, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,594, 594.0139293670654, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,594, 594.0139293670654, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,595, 595.0179100036621, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,595, 595.0179100036621, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,595, 595.0179100036621, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,596, 596.0242748260498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,596, 596.0242748260498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,596, 596.0242748260498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,596, 596.0242748260498, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,597, 597.017765045166, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,597, 597.017765045166, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,597, 597.017765045166, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,597, 597.017765045166, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,597, 597.017765045166, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,598, 598.0212688446045, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,598, 598.0212688446045, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,598, 598.0212688446045, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,598, 598.0212688446045, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,598, 598.0212688446045, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,599, 599.0140438079834, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,599, 599.0140438079834, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,599, 599.0140438079834, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,599, 599.0140438079834, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,599, 599.0140438079834, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,599, 599.0140438079834, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,600, 600.0099182128906, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,600, 600.0099182128906, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,600, 600.0099182128906, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,600, 600.0099182128906, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,600, 600.0099182128906, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,600, 600.0099182128906, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,601, 601.0098457336426, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,601, 601.0098457336426, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,601, 601.0098457336426, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,601, 601.0098457336426, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,601, 601.0098457336426, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,601, 601.0098457336426, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,602, 602.0107269287109, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,602, 602.0107269287109, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,602, 602.0107269287109, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,602, 602.0107269287109, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,602, 602.0107269287109, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,602, 602.0107269287109, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,602, 602.0107269287109, collection appending
+     INFO    utilLog          app.py:  24 -get_all_movies 2021-07-13 21:37:29,603, 603.0097007751465, collection appending
+     INFO    utilLog          app.py:  26 -get_all_movies 2021-07-13 21:37:29,603, 603.0097007751465, Json object serilazation
+     INFO   werkzeug    _internal.py: 113 - _log 2021-07-13 21:37:29,621, 621.0205554962158, 127.0.0.1 - - [13/Jul/2021 21:37:29] "[37mGET / HTTP/1.1[0m" 200 -
